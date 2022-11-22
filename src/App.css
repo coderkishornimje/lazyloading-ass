@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+/* **********MY CSS For Frame Div ********** */
+
+h1{
+  color:red;
+}
+
+.main-container{
+
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.frame-div{
+  
+  display: inline-block;
+  justify-content: center;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+button{
+  cursor: pointer;
+}
+
