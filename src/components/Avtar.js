@@ -15,7 +15,7 @@ function Avtar() {
     <div>
     {/* <h1>Avtart</h1>
      */}
-    <img src={avatar} loading="lazy"/>
+    <img src={avatar} loading="lazy" alt="profiles"/>
     </div>
   )
 }
